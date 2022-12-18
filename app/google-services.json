@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224474086665",
+    "firebase_url": "https://musicx-773c3.firebaseio.com",
+    "project_id": "musicx-773c3",
+    "storage_bucket": "musicx-773c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224474086665:android:cc202c637288f37d",
+        "android_client_info": {
+          "package_name": "com.cubesoft.musicx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224474086665-e9i4ivn1cp881e89m77uop236totv4ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubesoft.musicx",
+            "certificate_hash": "7b0713aec2f726ed84a4c6e7ba017091d892b02a"
+          }
+        },
+        {
+          "client_id": "224474086665-umvsniirta1f81anrvbpkvi8f0ntgg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbQEEAsMxcbpo5Q_XtV7LaoYWk4seTedQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224474086665-umvsniirta1f81anrvbpkvi8f0ntgg7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
